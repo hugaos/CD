@@ -1,0 +1,126 @@
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar left
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar in channel  sent: la
+
+DEBUG:root:Bar joined the chat
+DEBUG:root:Foo joined the chat
+DEBUG:root:Foo in channel  sent: 0ola
+
+DEBUG:root:Bar left
+DEBUG:root:Foo left
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar in channel  sent: ola
+
+DEBUG:root:Bar left
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar in channel  sent: ola
+
+DEBUG:root:Bar left
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar in channel  sent: ola
+
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar in channel  sent: ola
+
+DEBUG:root:Bar left
+DEBUG:root:Bar joined the chat
+DEBUG:root:Bar in channel  sent: ola
+
+DEBUG:root:Bar in channel  sent: ya
+
+DEBUG:root:Bar left
+DEBUG:root:Foo sent: Olá Mundo
+
+DEBUG:root:Foo sent: Olá Mundo
+
+DEBUG:root:Bar sent: Hello World
+
+DEBUG:root:Bar sent: Hello World
+
+DEBUG:root:Foo sent: Olá Mundo
+
+DEBUG:root:Foo sent: Olá Mundo
+
+DEBUG:root:Bar sent: Hello World
+
+DEBUG:root:Bar sent: Hello World
+
+DEBUG:root:Bar sent: How are you?
+
+DEBUG:root:Bar sent: How are you?
+
+DEBUG:root:Bar sent: Are you new around here?
+
+DEBUG:root:Bar sent: Are you new around here?
+
+DEBUG:root:Bar sent: Hope you enjoy your stay
+
+DEBUG:root:Bar sent: Hope you enjoy your stay
+
+DEBUG:root:Foo sent: You are awesome!
+
+DEBUG:root:Foo sent: You are awesome!
+
+DEBUG:root:Foo sent: Hello!
+
+DEBUG:root:Foo sent: Hello!
+
+DEBUG:root:Bar sent: Welcome aboard
+
+DEBUG:root:Bar sent: Welcome aboard
+
+DEBUG:root:Bar sent: Who are you?
+
+DEBUG:root:Bar sent: Who are you?
+
+DEBUG:root:Foo sent: I'm Joe
+
+DEBUG:root:Foo sent: I'm Joe
+
+DEBUG:root:Bar sent: Nice to meet you Joe
+
+DEBUG:root:Bar sent: Nice to meet you Joe
+
+DEBUG:root:Foo sent: Cya around
+
+DEBUG:root:Foo sent: Cya around
+
+DEBUG:root:Foo sent: Hello!
+
+DEBUG:root:Foo sent: Hello!
+
+DEBUG:root:Foo in channel #cd
+ sent: no one is here...
+
+DEBUG:root:Foo in channel #c1
+ sent: Hello darkness, my old friend
+
+DEBUG:root:Foo in channel #c2
+ sent: I've come to talk with you again
+
+DEBUG:root:Foo in channel #c2
+ sent: I've come to talk with you again
+
+DEBUG:root:Foo in channel #c1
+ sent: Because a vision softly creeping
+
+DEBUG:root:Foo sent: ola
+
+DEBUG:root:Foo sent: ola
+
+DEBUG:root:Foo sent: atudo 
+
+DEBUG:root:Foo sent: bem
+
+DEBUG:root:Foo sent: 
+
+DEBUG:root:Foo in channel ya
+ sent: obrigado
+
+DEBUG:root:Foo sent: la
+
+DEBUG:root:Foo sent: ola
+
+DEBUG:root:Foo sent: 
+

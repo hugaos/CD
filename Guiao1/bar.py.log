@@ -1,0 +1,48 @@
+DEBUG:root:received: Olá Mundo
+
+DEBUG:root:sent: Hello World
+
+DEBUG:root:received: Hello World
+
+DEBUG:root:received: Olá Mundo
+
+DEBUG:root:sent: Hello World
+
+DEBUG:root:received: Hello World
+
+DEBUG:root:sent: How are you?
+
+DEBUG:root:received: How are you?
+
+DEBUG:root:sent: Are you new around here?
+
+DEBUG:root:received: Are you new around here?
+
+DEBUG:root:sent: Hope you enjoy your stay
+
+DEBUG:root:received: Hope you enjoy your stay
+
+DEBUG:root:received: You are awesome!
+
+DEBUG:root:received: Hello!
+
+DEBUG:root:sent: Welcome aboard
+
+DEBUG:root:received: Welcome aboard
+
+DEBUG:root:sent: Who are you?
+
+DEBUG:root:received: Who are you?
+
+DEBUG:root:received: I'm Joe
+
+DEBUG:root:sent: Nice to meet you Joe
+
+DEBUG:root:received: Nice to meet you Joe
+
+DEBUG:root:received: Cya around
+
+DEBUG:root:received: Hello!
+
+DEBUG:root:received: I've come to talk with you again
+
